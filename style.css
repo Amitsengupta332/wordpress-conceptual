@@ -1,0 +1,20 @@
+/*
+Theme Name: WP Conceptual
+Theme URI: https://example.com/wpconceptual
+Author: Amit Sengupta
+Author URI: https://example.com
+Description: WP Conceptual is a custom WordPress theme built for learning and practice. It provides a clean and simple layout suitable for blogs, portfolios, and business websites.
+Requires at least: 6.0
+Tested up to: 6.9
+Requires PHP: 7.2
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wpconceptual
+Tags: blog, portfolio, custom-logo, custom-menu, featured-images, theme-options
+*/
+
+body{
+    background: #262626;
+    color: #ffffff;
+}
